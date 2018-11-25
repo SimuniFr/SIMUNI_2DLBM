@@ -1,17 +1,6 @@
-
 # Compile folders
-.cproject
-.project
-language.settings.xml
 *.cgns
 *.txt
 *.d
-*.cproject
-*.project
-*/.settings/*
 */Documentation/*
-*/archer/*
-*/archieW/*
 Doxyfile
-/Debug/
-/Release/
